@@ -1,7 +1,7 @@
 A simple CSS helper file with some classes for margin, padding and font size.
 
 You can use this CDN links to get the css file. <br/>
-	<a href="https://cdn.jsdelivr.net/gh/Mainul12501/css-common-helper-classes/helper.css" target="_blank">JSDelivr</a> | 
+	<a href="https://cdn.jsdelivr.net/gh/Mainul12501/css-common-helper-classes/helper.css" target="_blank">JSDelivr</a> | <a href="https://cdn.jsdelivr.net/gh/Mainul12501/css-common-helper-classes/helper.min.css" target="_blank">JSDelivr minified</a> 
 	
 
 CSS class name structures:
