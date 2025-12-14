@@ -32,3 +32,9 @@ CSS class name structures:
 		
 * PADDING LEFT
 	.p-l-x (x = 1 to 300)
+		
+* BORDER RADIUS
+	.b-r-x (x = 1 to 200)
+		
+* BORDER RADIUS IN PERCENTAGE
+	.b-r-p-x (x = 1 to 50)
